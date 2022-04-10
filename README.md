@@ -27,7 +27,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amankapoorji)
 
-- 🔭: I'm looking for new opportunity.
+- 🔭 I'm looking for new opportunity.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
