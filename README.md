@@ -41,11 +41,6 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 </div>
 
 ---
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAmanKapoor&show_icons=true&theme=radical)
-
-
-
----
 
 ### :fire: My Stats :
 
