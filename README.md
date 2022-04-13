@@ -25,7 +25,7 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :seedling: In my free time, I explore new technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amankapoorji)
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/amankapoorji"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>)></a>
 
 - 🔭 I'm looking for new opportunity.
 ---
