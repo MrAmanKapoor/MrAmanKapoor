@@ -22,17 +22,7 @@
 ### :woman_technologist: About Me :
 I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Front-End Web Developer and contributing to frontend for building web applications.
-
-- :seedling: In my free time, I explore new technologies.
-
-- :mailbox:How to reach me: <br><br>
- <a href="https://www.linkedin.com/in/amankapoorji"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:amankapoor140@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/></a>
-   <a href="https://twitter.com/MrKapoorJi?t=gg3u8Cp-RRSCN6xl41bwpw&s=09"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-    <a href="https://wa.me/919140933410" target="_blank"><img src="https://img.shields.io/badge/whatsapp-Forest%20green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/></a>
-   
-  
-
+- :seedling: In my free time, I explore new technologies.  
 - 🔭 I'm looking for new opportunity.
 ---
 
@@ -54,6 +44,14 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanKapoor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+----
+
+### :mailbox:How to reach me: <br><br>
+ <a href="https://www.linkedin.com/in/amankapoorji"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:amankapoor140@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+   <a href="https://twitter.com/MrKapoorJi?t=gg3u8Cp-RRSCN6xl41bwpw&s=09"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+    <a href="https://wa.me/919140933410" target="_blank"><img src="https://img.shields.io/badge/whatsapp-Forest%20green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/></a>
+   
 <!---
 MrAmanKapoor/MrAmanKapoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
