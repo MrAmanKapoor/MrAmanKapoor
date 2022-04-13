@@ -25,7 +25,13 @@ I am a Front-End Web Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :seedling: In my free time, I explore new technologies.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/amankapoorji"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>)></a>
+- :mailbox:How to reach me: <br><br>
+ <a href="https://www.linkedin.com/in/amankapoorji"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="amankapoor140@gmail.com"><img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/></a>
+   <a href="https://twitter.com/MrKapoorJi?t=gg3u8Cp-RRSCN6xl41bwpw&s=09"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+    <a href="https://www.linkedin.com/in/amankapoorji"><img src="https://img.shields.io/badge/whatsapp-Forest%20green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/></a>
+   
+  
 
 - 🔭 I'm looking for new opportunity.
 ---
