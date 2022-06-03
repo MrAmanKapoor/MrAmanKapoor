@@ -8,8 +8,7 @@
 
 <h1 align="center" color="red">
   
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>, I'm Aman Kapoor
+  Hi, I'm Aman Kapoor
 </h1>
 
 <div align="center">
